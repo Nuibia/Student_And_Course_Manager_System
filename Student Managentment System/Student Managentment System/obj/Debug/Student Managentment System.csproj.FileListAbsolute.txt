@@ -1,0 +1,21 @@
+c:\users\lenovo\documents\visual studio 2013\Projects\Student Managentment System\Student Managentment System\bin\Debug\Student Managentment System.exe.config
+c:\users\lenovo\documents\visual studio 2013\Projects\Student Managentment System\Student Managentment System\bin\Debug\Student Managentment System.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\Student Managentment System\Student Managentment System\bin\Debug\Student Managentment System.pdb
+c:\users\lenovo\documents\visual studio 2013\Projects\Student Managentment System\Student Managentment System\obj\Debug\Student Managentment System.csprojResolveAssemblyReference.cache
+c:\users\lenovo\documents\visual studio 2013\Projects\Student Managentment System\Student Managentment System\obj\Debug\Student Managentment System.exe
+c:\users\lenovo\documents\visual studio 2013\Projects\Student Managentment System\Student Managentment System\obj\Debug\Student Managentment System.pdb
+C:\Users\lenovo\Desktop\作业\C#作业\Student Managentment System\Student Managentment System\bin\Debug\Student Managentment System.exe.config
+C:\Users\lenovo\Desktop\作业\C#作业\Student Managentment System\Student Managentment System\obj\Debug\Student Managentment System.exe
+C:\Users\lenovo\Desktop\作业\C#作业\Student Managentment System\Student Managentment System\obj\Debug\Student Managentment System.pdb
+C:\Users\lenovo\Desktop\作业\C#作业\Student Managentment System\Student Managentment System\bin\Debug\Student Managentment System.exe
+C:\Users\lenovo\Desktop\作业\C#作业\Student Managentment System\Student Managentment System\bin\Debug\Student Managentment System.pdb
+C:\Users\lenovo\Desktop\作业\C#作业\Student Managentment System\Student Managentment System\obj\Debug\Student Managentment System.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\个人简历比赛\Student Managentment System\Student Managentment System\bin\Debug\Student Managentment System.exe.config
+C:\Users\lenovo\Desktop\个人简历比赛\Student Managentment System\Student Managentment System\obj\Debug\Student Managentment System.exe
+C:\Users\lenovo\Desktop\个人简历比赛\Student Managentment System\Student Managentment System\obj\Debug\Student Managentment System.pdb
+C:\Users\lenovo\Desktop\软件学院安鸿飞52\Student Managentment System\Student Managentment System\bin\Debug\Student Managentment System.exe.config
+C:\Users\lenovo\Desktop\软件学院安鸿飞52\Student Managentment System\Student Managentment System\obj\Debug\Student Managentment System.exe
+C:\Users\lenovo\Desktop\软件学院安鸿飞52\Student Managentment System\Student Managentment System\obj\Debug\Student Managentment System.pdb
+C:\Users\lenovo\Desktop\软件学院安鸿飞52\Student Managentment System\Student Managentment System\bin\Debug\Student Managentment System.exe
+C:\Users\lenovo\Desktop\软件学院安鸿飞52\Student Managentment System\Student Managentment System\bin\Debug\Student Managentment System.pdb
+C:\Users\lenovo\Desktop\软件学院安鸿飞52\Student Managentment System\Student Managentment System\obj\Debug\Student Managentment System.csprojResolveAssemblyReference.cache

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<System title="学生管理系统">
+  <Students title="学生信息节点" num="174804002">
+    <student 学号="174804001">
+      <name>安鸿飞</name>
+      <clsName>17.net</clsName>
+      <CourseID>
+        <courseId>2</courseId>
+      </CourseID>
+    </student>
+    <student 学号="174804002">
+      <name>anhongfei</name>
+      <clsName>。net</clsName>
+      <CourseID />
+    </student>
+  </Students>
+  <classes title="班级信息节点" />
+  <Courses title="课程信息节点" counum="3">
+    <course 课程id="2">
+      <couname>语文</couname>
+      <Snum>1</Snum>
+    </course>
+    <course 课程id="3">
+      <couname>语文</couname>
+      <Snum>0</Snum>
+    </course>
+  </Courses>
+</System>
